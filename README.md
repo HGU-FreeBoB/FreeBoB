@@ -53,3 +53,12 @@
 - 📈 인기 순위 차트 및 최신 개봉작 소개
 
 ---
+
+## 🔗 레포지토리 구조
+
+| 역할 | 설명 | 링크 |
+|------|------|------|
+| 🎨 Frontend | React 기반 웹 UI 개발 | [FreeBoB_Frontend](https://github.com/HGU-FreeBoB/FreeBoB_Frontend) |
+| ⚙️ Backend | Java / Spring 기반 API 서버 | [FreeBoB_Backend](https://github.com/HGU-FreeBoB/FreeBoB_Backend) |
+
+---
